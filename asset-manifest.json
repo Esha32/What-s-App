@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/What-s-App/static/css/main.b8bf44e3.chunk.css",
+    "main.js": "/What-s-App/static/js/main.db66e009.chunk.js",
+    "main.js.map": "/What-s-App/static/js/main.db66e009.chunk.js.map",
+    "runtime-main.js": "/What-s-App/static/js/runtime-main.ab3b973e.js",
+    "runtime-main.js.map": "/What-s-App/static/js/runtime-main.ab3b973e.js.map",
+    "static/js/2.b9e2fb0e.chunk.js": "/What-s-App/static/js/2.b9e2fb0e.chunk.js",
+    "static/js/2.b9e2fb0e.chunk.js.map": "/What-s-App/static/js/2.b9e2fb0e.chunk.js.map",
+    "index.html": "/What-s-App/index.html",
+    "precache-manifest.b7a9f1f8c17f6f7c0c47c811bd81f5b9.js": "/What-s-App/precache-manifest.b7a9f1f8c17f6f7c0c47c811bd81f5b9.js",
+    "service-worker.js": "/What-s-App/service-worker.js",
+    "static/css/main.b8bf44e3.chunk.css.map": "/What-s-App/static/css/main.b8bf44e3.chunk.css.map",
+    "static/js/2.b9e2fb0e.chunk.js.LICENSE.txt": "/What-s-App/static/js/2.b9e2fb0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab3b973e.js",
+    "static/js/2.b9e2fb0e.chunk.js",
+    "static/css/main.b8bf44e3.chunk.css",
+    "static/js/main.db66e009.chunk.js"
+  ]
+}
